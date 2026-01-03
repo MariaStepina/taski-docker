@@ -123,9 +123,4 @@ CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000'
 ]
 
-ALLOWED_HOSTS = ['localhost', '89.169.173.192', ] 
-
-# login: yc-user
-
-# passphrase: JlOv3bJ-5z
-
+ALLOWED_HOSTS = ['localhost', '89.169.173.192',]
