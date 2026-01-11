@@ -123,4 +123,4 @@ CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000'
 ]
 
-ALLOWED_HOSTS = ['localhost', '89.169.173.192',]
+ALLOWED_HOSTS = ['localhost', '89.169.173.192', 'webmary.ru']
